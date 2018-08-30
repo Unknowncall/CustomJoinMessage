@@ -1,0 +1,4 @@
+join_message: '&a%player%'
+leave_message: '&c%player%'
+join_prefix: '&8[&a+&8]'
+leave_prefix: '&8[&c-&8]'

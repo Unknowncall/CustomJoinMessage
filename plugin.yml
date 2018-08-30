@@ -1,0 +1,15 @@
+name: CustomJoinMessage
+version: 1.0.0
+author: Unknowncall
+ 
+main: net.pixelcade.customjoinmessage.CustomJoinMessage
+ 
+commands:
+  joinmessage:
+    description: Join Message command.
+    usage: /<command>
+    aliases: [jm]
+  leavemessage:
+    description: Leave Message command.
+    usage: /<command>
+    aliases: [lm]
